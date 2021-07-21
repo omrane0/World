@@ -1,0 +1,217 @@
+if 5 > 2:
+  print("Five is greater than two!")
+
+
+
+Five is greater than two!
+
+
+if 5 > 2:
+ print("Five is greater than two!")  
+if 5 > 2:
+        print("Five is greater than two!") 
+
+
+
+
+
+Five is greater than
+Five is greater than two!
+
+
+
+
+print("Hello, World!") 
+
+
+Hello, World!
+
+
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>My First JavaScript</h2>
+
+<button type="button"
+onclick="document.getElementById('demo').innerHTML = Date()">
+Click me to display Date and Time.</button>
+
+<p id="demo"></p>
+
+</body>
+</html> 
+
+
+
+
+My First JavaScript
+Click me to display Date and Time.
+
+
+
+
+
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>My Heading</h2>
+
+<p>Play around with the code and click on the "Run" button to view the result.</p>
+
+<p id="demo"></p>
+
+<script>
+let x = 5;
+let y = 6;
+let z = x + y;
+document.getElementById("demo").innerHTML =
+"The value of z is: " + z;
+</script>
+
+</body>
+</html>
+
+
+
+
+My Heading
+Play around with the code and click on the "Run" button to view the result.
+
+The value of z is: 11
+
+
+
+
+
+
+if 5 > 2:
+print("Five is greater than two!")
+
+
+
+
+if 5 > 2:
+print("Five is greater than two!")
+if 5 > 2:
+print("Five is greater than two!")
+​
+  File "demo_indentation_test.py", line 2
+    print("Five is greater than two!")
+        ^
+IndentationError: expected an indented block
+
+
+
+
+
+
+
+
+#!/bin/python3
+print("Hello, World!")
+
+
+Hello, World!
+
+
+
+
+
+
+
+
+if 5 > 2:
+ print("Five is greater than two!") 
+        print("Five is greater than two!")
+
+
+if 5 > 2:
+ print("Five is greater than two!") 
+        print("Five is greater than two!")
+        
+        
+        
+        
+        
+        
+        
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>What Can JavaScript Do?</h2>
+
+<p id="demo">JavaScript can change HTML content.</p>
+
+<button type="button" onclick='document.getElementById("demo").innerHTML = "Hello JavaScript!"'>Click Me!</button>
+
+</body>
+</html>
+
+
+
+What Can JavaScript Do?
+JavaScript can change HTML content.
+
+Click Me!   
+
+
+
+
+
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>What Can JavaScript Do?</h2>
+
+<p id="demo">JavaScript can change HTML content.</p>
+
+<button type="button" onclick="document.getElementById('demo').innerHTML = 'Hello JavaScript!'">Click Me!</button>
+
+</body>
+</html>
+
+
+
+
+What Can JavaScript Do?
+JavaScript can change HTML content.
+
+Click Me!
+
+
+
+
+
+
+
+
+
+
+x = 5
+y = "Hello, World!"
+
+print(x)
+print(y)
+
+
+
+
+
+
+
+5
+Hello, World!
+
+
+        
+
+
+
+
